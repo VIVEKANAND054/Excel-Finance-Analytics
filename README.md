@@ -7,7 +7,7 @@ Finance Analytics project using Excel
 
   **1.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/VIVEKANAND054/Excel-Finance-Analytics/blob/main/AtliQ_P%26L_for_Markets.pdf)
 
-  **2.** Create a [Gross Margin % Trend by Sub-Zone & Quarter](https://github.com/VIVEKANAND054/Excel-Finance-Analytics/blob/main/AtliQ_Gross_Margin_SubZone_Quarterly_Report.pdf)
+  **2.** Create a [Gross Margin % Trend by Sub-Zone & Quarters](https://github.com/VIVEKANAND054/Excel-Finance-Analytics/blob/main/AtliQ_Gross_Margin_SubZone_Quarterly_Report.pdf)
 
 - **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
