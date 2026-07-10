@@ -1,8 +1,10 @@
 # Excel - Finance Analytics 📊
-Finance Analytics project using Excel
+
+## Company Background
+AtliQ Hardwares is a global hardware company selling products across 23+ markets worldwide.
+This project analyzes their financial performance using Microsoft Excel.
 
 ## Finance Report :
-
 - **Project objective:**
 
   **1.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/VIVEKANAND054/Excel-Finance-Analytics/blob/main/AtliQ_P%26L_for_Markets.pdf)
@@ -16,9 +18,8 @@ Finance Analytics project using Excel
 - **Role of reports:** Align financial planning with strategic goals and instill confidence in the organization's financial outlook.
 
 ## Reports Included :
-
-- 📄 [P&L for Markets (2021)](https://github.com/VIVEKANAND054/Excel-Finance-Analytics/blob/main/AtliQ_P%26L_for_Markets.pdf)
-- 📄 [Gross Margin % by Sub-Zone & Quarters](https://github.com/VIVEKANAND054/Excel-Finance-Analytics/blob/main/AtliQ_Gross_Margin_SubZone_Quarterly_Report.pdf)
+- 📄 [AtliQ P&L for Markets (2021)](https://github.com/VIVEKANAND054/Excel-Finance-Analytics/blob/main/AtliQ_P%26L_for_Markets.pdf)
+- 📄 [AtliQ Gross Margin % by Sub-Zone & Quarters](https://github.com/VIVEKANAND054/Excel-Finance-Analytics/blob/main/AtliQ_Gross_Margin_SubZone_Quarterly_Report.pdf)
 - 📄 [Scenario Planning Tool](https://github.com/VIVEKANAND054/Excel-Finance-Analytics/blob/main/Scenario%20Planning%20Tool.pdf)
 - 📄 [Project Priority Matrix](https://github.com/VIVEKANAND054/Excel-Finance-Analytics/blob/main/Project%20Priority%20Matrix.pdf)
 
